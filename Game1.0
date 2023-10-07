@@ -1,0 +1,5 @@
+enter = input("Hello there player, wanna play a game ?")
+if enter == yes:
+  print("Oh so you seem to like to enjoy games ")
+  else
+  print(" K then CYA LATER")
